@@ -6,7 +6,7 @@ These exercises should be done when instructed during the course of the curricul
 
 > When doing the following exercises, please use all the documentation and resources you need to accomplish them. You are _not_ intended to have any of this stuff memorized at this point. Check the docs, use google, do what you need to do (besides checking the solutions) to get them done.
 
-## How to use these exercises
+## How to use this exercise
 
 1. Fork and copy this repository. Copies of repositories on your machine are called clones. If you need help cloning to your local environment you can learn how [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
 2. Go to an exercise directory and open the HTML file in your browser. You can either open the file directly, or use something like VSCode's Live Server.
